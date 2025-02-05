@@ -60,23 +60,3 @@ php artisan serve
 ブラウザで `http://127.0.0.1:8000` にアクセスしてください。
 
 ---
-
-## 📂 フォルダ構成
-```
-StoreManager/
-├── app/            # アプリケーションロジック
-├── bootstrap/      # フレームワーク起動処理
-├── config/         # 設定ファイル
-├── database/       # データベース関連（マイグレーションなど）
-├── public/         # 公開ディレクトリ
-├── resources/      # ビュー・アセットなど
-├── routes/         # ルーティング定義
-├── storage/        # キャッシュ・ログ等
-├── tests/          # テストコード
-├── .env.example    # 環境変数のサンプル
-├── composer.json   # PHP パッケージ管理
-├── package.json    # Node.js パッケージ管理
-└── README.md       # プロジェクトの説明
-```
-
----
