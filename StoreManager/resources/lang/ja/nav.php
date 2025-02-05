@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'sale' => '会計',
+    'product' => '商品',
+    'productList' => '商品リスト',
+    'productAdd' => '商品追加',
+    'inventory' => '在庫',
+    'inventoryList' => '在庫リスト',
+    'orderList' => '発注リスト',
+    'orderReceive' => '発注受取',
+    'customer' => '顧客',
+    'customerList' => '顧客リスト',
+    'customerAdd' => '顧客追加',
+    'attendance' => '勤怠',
+    'data' => 'データ分析',
+    'settings' => '設定',
+    'stamping' => '出退勤',
+    'attendanceRecord' => '勤怠表',
+    'attendanceEdit' => '勤怠編集',
+    'workingTimeRecord' => '労働時間表',
+    'userManagement' => 'ユーザー管理',
+    'mailAndPassEdit' => 'メールアドレス、パスワード変更',
+    'systemEdit' => 'システム変更',
+    'setTaxRateChangeSchedule' => '税率変更予定',
+];

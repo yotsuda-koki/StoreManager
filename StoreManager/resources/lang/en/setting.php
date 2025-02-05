@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'langSet' => 'Language Setting',
+    'langSelect' => 'Select Language',
+    'currencySet' => 'Currency Setting',
+    'currencySelect' => 'Select Currency',
+    'timeSet' => 'TimeZone Setting',
+    'timeSelect' => 'Select TimeZone',
+    'newUser' => 'New User',
+    'userName' => 'User Name',
+    'userAdd' => 'Add User',
+    'userEdit' => 'Edit User',
+    'name' => 'Name',
+    'email' => 'Email Address',
+    'password' => 'Password',
+    'confirmPassword' => 'Confirm Passwrod',
+    'role' => 'Role',
+    'trainee' => 'Trainee',
+    'trainer' => 'Trainer',
+    'admin' => 'Admin',
+    'effectiveDate' => 'Effective Date',
+    'rate' => 'Tax Rate(%)',
+    'taxEdit' => 'Edit Change Tax Rates',
+];

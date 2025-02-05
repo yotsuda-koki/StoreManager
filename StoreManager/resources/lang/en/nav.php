@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'sale' => 'Sale',
+    'product' => 'Product',
+    'productList' => 'Product List',
+    'productAdd' => 'Add Product',
+    'inventory' => 'Inventory',
+    'inventoryList' => 'Inventory List',
+    'orderList' => 'Order List',
+    'orderReceive' => 'Receive Order',
+    'customer' => 'Customer',
+    'customerList' => 'Customer List',
+    'customerAdd' => 'Add Customer',
+    'attendance' => 'Attendance',
+    'data' => 'Analyse Data',
+    'settings' => 'Settings',
+    'stamping' => 'Stamping',
+    'attendanceRecord' => 'Attendance Record',
+    'attendanceEdit' => 'Edit Attendance',
+    'workingTimeRecord' => 'Working Time Record',
+    'userManagement' => 'User Management',
+    'mailAndPassEdit' => 'Edit Emailadress and Password',
+    'systemEdit' => 'Edit System',
+    'setTaxRateChangeSchedule' => 'Set TaxRate Change Schedule',
+];

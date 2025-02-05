@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'langSet' => '言語設定',
+    'langSelect' => '言語を選択する',
+    'currencySet' => '通貨設定',
+    'currencySelect' => '通貨を選択する',
+    'timeSet' => 'タイムゾーン設定',
+    'timeSelect' => 'タイムゾーンを選択する',
+    'newUser' => '新規ユーザー',
+    'userName' => 'ユーザー名',
+    'userAdd' => 'ユーザー追加',
+    'userEdit' => 'ユーザー編集',
+    'name' => '名前',
+    'email' => 'メールアドレス',
+    'password' => 'パスワード',
+    'confirmPassword' => '確認用パスワード',
+    'role' => '権限',
+    'trainee' => 'トレーニー',
+    'trainer' => 'トレーナー',
+    'admin' => 'アドミン',
+    'effectiveDate' => '実施日',
+    'rate' => '税率(%)',
+    'taxEdit' => '変更税率編集',
+];
